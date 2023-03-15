@@ -76,6 +76,6 @@ $ crie sua conta com senha
 
 This project is under the license [MIT](./LICENSE).
 
-Made with ❤️ by Marcelo Cerqueira  [Get in Touch!]()
+Made with ❤️ by Marcelo Cerqueira  [Get in Touch!](https://www.linkedin.com/in/marcelo-cerqueira-0a0b42178/)
 
 ---
