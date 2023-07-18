@@ -1,8 +1,8 @@
 <h1 align="center">
-    <a href="#"> Rocketnotes </a>
+    <a href="#"> food-backend </a>
 </h1>
 
-<p align="center">  Aplicativo de anotações </p>
+<p align="center">  Aplicativo de pedidos </p>
 
 <h4 align="center"> 
 	 Status: Concluído.
@@ -51,10 +51,10 @@ O aplicativo de anotoções digital.
 
 ```bash
 # Clone este repositório
-$ git clonehttps://github.com/marcelocerqueira/API_Nodejs.git
+$ git clone https://github.com/Marcelocerqueira/food-backend
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd + sua pasta + https://github.com/marcelocerqueira/API_Nodejs.git
+$ cd + sua pasta + https://github.com/Marcelocerqueira/food-backend
 # Instale as dependências
 $ npm install
 
